@@ -2,8 +2,8 @@ import React from 'react';
 import { Text, View } from 'react-native';
 
 // import MapView from 'react-native-maps';
-import MapView from 'react-native-web-maps';
-// import MapView from './components/MapView';
+// import MapView from 'react-native-web-maps';
+import MapView from './components/MapView';
 
 export default function App() {
   return (
